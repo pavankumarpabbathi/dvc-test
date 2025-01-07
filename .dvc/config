@@ -1,0 +1,4 @@
+[core]
+    remote = nz-datasets
+['remote "nz-datasets"']
+    url = s3://mlops-187025654051-dvctest/nzdatasets/
